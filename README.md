@@ -16,10 +16,10 @@
 ## 🛠️ 대표 프로젝트
 
 ### 🧭 Jusochan - 외국인을 위한 주소 번역 서비스
-> **기술스택**: Next.js + Spring Boot + MySQL + Google Translate API  
+> **기술스택**: Next.js + React + TypeScript + 공공데이터API + Google Translate API + AWS EC2 
 > **설명**: 한국 도로명 주소를 영어/일본어/중국어로 번역해주는 플랫폼입니다.
 
-🔗 [웹사이트 바로가기](https://jusochan.com)  
+🔗 [웹사이트 바로가기](http://jusochan.com)  
 🔗 [GitHub Repository](https://github.com/jungdowoo/jusochan)
 
 ---
