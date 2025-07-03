@@ -31,5 +31,5 @@
 ---
 
 ## 📫 Contact
-- Email: jungdowoo.dev@gmail.com
+- Email: jdw9302@naver.com
 - Portfolio: [정도우 포트폴리오 보기](https://your-portfolio-site.com)
