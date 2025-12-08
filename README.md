@@ -16,13 +16,20 @@
 ## 🛠️ 대표 프로젝트
 
 ### 🧭 Jusochan - 외국인을 위한 주소 번역 서비스
-> **기술스택**: Next.js + React + TypeScript + 공공데이터API + Google Translate API + AWS EC2 
+> **기술스택**: JSP, jQuery, Java, Spring + 공공데이터API + Papago API + 아이윈브 + MySql
 > **설명**: 한국 도로명 주소를 영어/일본어/중국어로 번역해주는 플랫폼입니다.
 
 🔗 [웹사이트 바로가기](http://jusochan.com)  
 🔗 [GitHub Repository](https://github.com/jungdowoo/jusochan)
 
 ---
+### LIFEETF - 미국주식 투자자들을 위한 배당금 조회 사이트
+> **기술스택**: React, Vite, Python, Github Actions + Yahoo Finance API  + Vercel
+> **설명**: 미국주식 투자자들을 위한 배당금 조회/계산 및 주식의 성향을 제공하는 플랫폼입니다.
+
+🔗 [웹사이트 바로가기](http://lifeetf.com)  
+
+
 
 ## 📈 GitHub Stats
 
@@ -32,4 +39,4 @@
 
 ## 📫 Contact
 - Email: jdw9302@naver.com
-- Portfolio: [정도우 포트폴리오 보기](https://your-portfolio-site.com)
+- Portfolio: [정도우 포트폴리오 보기][(https://jungdowoo.github.io/)
